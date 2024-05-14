@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5F90C445-2EC8-4EA1-8046-14D10C79C97D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBB3E122-87AD-4F94-B87E-B3CEEC40CE33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Guided Project_List_Ev3iOS/ToDoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "390655C6-C5D1-4C3F-9861-5E588ACC4B2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Guided Project_List_Ev3iOS/ToDoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "390655C6-C5D1-4C3F-9861-5E588ACC4B2E - e765067ce45033c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Guided_Project_List_Ev3iOS.ToDoTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Guided Project_List_Ev3iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelmeza/Documents/Tecmilenio/6to%20semestre/Desarrollo_de_aplicaciones_en_plataforma_iOS/Guided%20Project_List_Ev3iOS/Guided%20Project_List_Ev3iOS/ToDoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "390655C6-C5D1-4C3F-9861-5E588ACC4B2E - e765067ce45033c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Guided_Project_List_Ev3iOS.ToDoTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Guided Project_List_Ev3iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelmeza/Documents/Tecmilenio/6to%20semestre/Desarrollo_de_aplicaciones_en_plataforma_iOS/Guided%20Project_List_Ev3iOS/Guided%20Project_List_Ev3iOS/ToDoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
