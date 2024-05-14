@@ -18,8 +18,13 @@ struct ToDo: Equatable, Codable {
         return lhs.id == rhs.id
     }
     
-    static func loadToDos() -> [ToDo]?  {
-        return nil
+    static func loadSampleToDo() -> [ToDo] {
+        let toDo1 = ToDo(id: UUID(), title: "To-Do One", isComplete: false, dueDate: Date(), notes: "Notes 2")
+        let toDo2 = ToDo(id: UUID(), title: "2", isComplete: false, dueDate: Date(), notes: "something 2")
+        let toDo3 = ToDo(id: UUID(), title: "todo 3", isComplete: false, dueDate: Date(), notes: ":D")
+        return [toDo1, toDo2, toDo3]
     }
+ 
+
     
 }
