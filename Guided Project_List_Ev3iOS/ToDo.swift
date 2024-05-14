@@ -6,3 +6,20 @@
 //
 
 import Foundation
+
+struct ToDo: Equatable, Codable {
+    var id = UUID()
+    var title: String
+    var isComplete: Bool
+    var dueDate: Date
+    var notes: String?
+    
+    static func ==(lhs: ToDo, rhs: ToDo) -> Bool {
+        return lhs.id == rhs.id
+    }
+    
+    static func loadToDos() -> [ToDo]?  {
+        return nil
+    }
+    
+}
